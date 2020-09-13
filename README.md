@@ -1,9 +1,8 @@
 <html>
 
 <body>
-  <div>
-    <h3 id="hi-there-👋">Hi there 👋</h3>
-    <h3>I'm Tiago from Lisbon, Portugal 👨‍💻</h3>
+  <div><h3 id="hi-there-👋">Hi there 👋</h3>
+<h3 id="im-tiago-from-lisbon-portugal-👨‍💻">I’m Tiago from Lisbon, Portugal 👨‍💻</h3>
 <ul>
 <li>
 <p>🔭 I’m currently working on finishing my degree</p>
@@ -45,7 +44,7 @@
 <tr>
 <td align="center"></td>
 <td align="center"><a href="https://github.com/TiagoPereira06/EDU_Algorithms">Algorithms</a>  <img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" alt="Java" width="20" height="20"></td>
-<td align="center"></td>
+<td align="center"><a href="https://github.com/TiagoPereira06/EDU_Webao">Webao</a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" alt="Net" width="20" height="20"></td>
 <td align="center"></td>
 </tr>
 </tbody>
