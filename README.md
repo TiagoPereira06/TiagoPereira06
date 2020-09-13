@@ -39,7 +39,7 @@
 <td align="center"></td>
 <td align="center"><a href="https://github.com/TiagoPereira06/EDU_Snake">Snake</a> <img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" alt="Java" width="20" height="20"></td>
 <td align="center"><a href="https://github.com/TiagoPereira06/EDU_Room-Reservation-Management">Room Reservation Management</a> <img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" alt="Java" width="20" height="20"></td>
-<td align="center"></td>
+<td align="center"><a href="https://github.com/TiagoPereira06/EDU_Pilim">Pilim</a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" alt="Net" width="20" height="20"></td>
 </tr>
 <tr>
 <td align="center"></td>
