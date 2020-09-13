@@ -1,7 +1,9 @@
 <html>
 
-<body class="stackedit">
-  <div class="stackedit__html"><h3 id="hi-there-👋">Hi there 👋</h3>
+<body>
+  <div>
+    <h3 id="hi-there-👋">Hi there 👋</h3>
+    <h3>I'm Tiago from Lisbon, Portugal 👨‍💻</h3>
 <ul>
 <li>
 <p>🔭 I’m currently working on finishing my degree</p>
