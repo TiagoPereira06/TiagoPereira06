@@ -14,7 +14,7 @@
 <p>📫 How to reach me: <a href="mailto:tiagomrp06@gmail.com">tiagomrp06@gmail.com</a></p>
 </li>
 <li>
-<p>⚡ Fun fact: Just use Google</p>
+<p>⚡ Fun fact: "Pretty, Pretty, Pretty Good"</p>
 </li>
 </ul>
 <h3 id="projects---informatics-and-computer-engineering-degree--isel">Projects - Informatics and Computer Engineering Degree @ <a href="https://www.isel.pt/">ISEL</a></h3>
