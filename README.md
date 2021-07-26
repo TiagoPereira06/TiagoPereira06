@@ -17,7 +17,7 @@
   <p>⚡ Standard I aspire to: <a href="https://www.youtube.com/watch?v=O_05qJTeNNI">"Pretty, Pretty, Pretty Good"</a></p>
 </li>
 </ul>
-<h3 id="projects---informatics-and-computer-engineering-degree--isel">Projects - Informatics and Computer Engineering Degree @ <a href="https://www.isel.pt/">ISEL</a></h3>
+<h3 id="projects---informatics-and-computer-engineering-degree--isel">Projects - Computer Science and Engineering Degree @ <a href="https://www.isel.pt/">ISEL</a></h3>
 
 <table>
 <thead>
