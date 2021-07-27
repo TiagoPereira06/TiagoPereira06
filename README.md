@@ -1,7 +1,14 @@
+<!DOCTYPE html>
 <html>
 
-<body>
-  <div><h3 id="hi-there-👋">Hi there 👋</h3>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h3 id="hi-there-👋">Hi there 👋</h3>
 <h3 id="im-tiago-from-lisbon-portugal-👨‍💻">I’m Tiago from Lisbon, Portugal 👨‍💻</h3>
 <ul>
 <li>
@@ -14,10 +21,10 @@
 <p>📫 How to reach me: <a href="mailto:tiagomrp06@gmail.com">tiagomrp06@gmail.com</a></p>
 </li>
 <li>
-  <p>⚡ Standard I aspire to: <a href="https://www.youtube.com/watch?v=O_05qJTeNNI">"Pretty, Pretty, Pretty Good"</a></p>
+<p>⚡ Fun fact: I’m an experienced bartender</p>
 </li>
 </ul>
-<h3 id="projects---informatics-and-computer-engineering-degree--isel">Projects - Computer Science and Engineering Degree @ <a href="https://www.isel.pt/">ISEL</a></h3>
+<h3 id="projects---computer-science-and--engineering-degree--isel">Projects - Computer Science and  Engineering Degree @ <a href="https://www.isel.pt/">ISEL</a></h3>
 
 <table>
 <thead>
@@ -39,11 +46,11 @@
 <td align="center"></td>
 <td align="center"><a href="https://github.com/TiagoPereira06/EDU_Snake">Snake</a> <img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" alt="Java" width="20" height="20"></td>
 <td align="center"><a href="https://github.com/TiagoPereira06/EDU_Room-Reservation-Management">Room Reservation Management</a> <img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" alt="Java" width="20" height="20"></td>
-<td align="center"><a href="https://github.com/TiagoPereira06/EDU_Pilim">Pilim</a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" alt="Net" width="20" height="20"></td>
+<td align="center"></td>
 </tr>
 <tr>
 <td align="center"></td>
-<td align="center"><a href="https://github.com/TiagoPereira06/EDU_Algorithms">Algorithms</a>  <img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" alt="Java" width="20" height="20"></td>
+<td align="center"></td>
 <td align="center"><a href="https://github.com/TiagoPereira06/EDU_Webao">Webao</a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" alt="Net" width="20" height="20"></td>
 <td align="center"></td>
 </tr>
