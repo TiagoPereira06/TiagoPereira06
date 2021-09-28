@@ -10,7 +10,7 @@
 <h3 id="im-tiago-from-lisbon-portugal-👨‍💻">I’m Tiago from Lisbon, Portugal 👨‍💻</h3>
 <ul>
 <li>
-<p>🔭 I’m currently working on finishing my degree</p>
+<p>🔭 I recently completed my bachelor’s (degree)</p>
 </li>
 <li>
 <p>🌱 I’m currently learning Flutter</p>
