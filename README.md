@@ -6,9 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
-
-<body class="stackedit">
-  <div class="stackedit__html"><h3 id="hi-there-👋">Hi there 👋</h3>
+      <h3 id="hi-there-👋">Hi there 👋</h3>
 <h3 id="im-tiago-from-lisbon-portugal-👨‍💻">I’m Tiago from Lisbon, Portugal 👨‍💻</h3>
 <ul>
 <li>
@@ -38,14 +36,14 @@
 <tbody>
 <tr>
 <td align="center"></td>
-<td align="center"><a href="https://github.com/TiagoPereira06/EDU_2048-Game">2048</a> <img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" alt="Java" width="20" height="20"></td>
+<td align="center"><a href="https://github.com/TiagoPereira06/EDU_2048-Game">2048</a> <img src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="Java" width="20" height="20"></td>
 <td align="center"><a href="https://github.com/TiagoPereira06/EDU_Board-Games-Galore">Board Games Galore</a> <img src="https://www.logo.wine/a/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.svg" alt="Kotlin" width="20" height="20"></td>
 <td align="center"><a href="https://github.com/TiagoPereira06/EDU_Cota">Cota</a> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png" alt="JS" width="20" height="20"></td>
 </tr>
 <tr>
 <td align="center"></td>
-<td align="center"><a href="https://github.com/TiagoPereira06/EDU_Snake">Snake</a> <img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" alt="Java" width="20" height="20"></td>
-<td align="center"><a href="https://github.com/TiagoPereira06/EDU_Room-Reservation-Management">Room Reservation Management</a> <img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" alt="Java" width="20" height="20"></td>
+<td align="center"><a href="https://github.com/TiagoPereira06/EDU_Snake">Snake</a> <img src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="Java" width="20" height="20"></td>
+<td align="center"><a href="https://github.com/TiagoPereira06/EDU_Room-Reservation-Management">Room Reservation Management</a> <img src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="Java" width="20" height="20"></td>
 <td align="center"></td>
 </tr>
 <tr>
@@ -55,7 +53,9 @@
 <td align="center"></td>
 </tr>
 </tbody>
-</table></div>
+</table>
+    </div>
+  </div>
 </body>
 
 </html>
