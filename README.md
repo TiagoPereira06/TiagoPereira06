@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
       <h3 id="hi-there-👋">Hi there 👋</h3>
-<h3 id="im-tiago-from-lisbon-portugal-👨‍💻">I’m Tiago from Lisbon, Portugal 👨‍💻</h3>
+<h3 id="im-tiago-from-lisbon-portugal-👨‍💻">I’m Tiago from Porto, Portugal 👨‍💻</h3>
 <ul>
 <li>
 <p>🔭 I recently completed my bachelor’s (degree)</p>
