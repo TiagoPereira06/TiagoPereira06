@@ -13,7 +13,7 @@
 <p>🔭 I recently completed my bachelor’s (degree)</p>
 </li>
 <li>
-<p>🌱 I’m currently learning Flutter</p>
+  <p> 💞 In love with .NET</p>
 </li>
 <li>
 <p>📫 How to reach me: <a href="mailto:tiagomrp06@gmail.com">tiagomrp06@gmail.com</a></p>
