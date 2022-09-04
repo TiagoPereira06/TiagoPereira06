@@ -16,6 +16,9 @@
   <p> 💞 In love with .NET</p>
 </li>
 <li>
+<p>👩‍⚕️ Proud member of <a href="https://www.sali.pt/">SALI</a> project</p>
+</li>
+<li>
 <p>📫 How to reach me: <a href="mailto:tiagomrp06@gmail.com">tiagomrp06@gmail.com</a></p>
 </li>
 <li>
