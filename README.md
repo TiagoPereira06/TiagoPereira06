@@ -13,7 +13,7 @@
 <p>🔭 Bachelor’s (degree) from <a href="https://www.isel.pt/">ISEL</a></p>
 </li>
 <li>
-<p>🔭 Masters’s (degree) from <a href="https://www.isep.ipp.pt//">ISEP</a></p>
+<p>🔭 Ongoing Masters’s (degree) from <a href="https://www.isep.ipp.pt//">ISEP</a></p>
 </li>
 <li>
   <p> 💞 In love with .NET</p>
